@@ -1,0 +1,7 @@
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.csproj.AssemblyReference.cache
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfoInputs.cache
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfo.cs
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SARAH\ClienteAPI\obj\Debug\net8.0\ClienteAPI.MvcApplicationPartsAssemblyInfo.cache
